@@ -7,9 +7,8 @@ End-to-end fake-news classification project with interpretable baselines and neu
 - Time-based train/test split
 - Full-text TF-IDF + Logistic Regression baseline
 - Full-text DistilBERT fine-tuning
-- DANN (domain-adversarial) experiment
 - Headline-only TF-IDF baseline
-- Headline-only DistilBERT and headline-only DANN experiments
+- Headline-only DistilBERT experiment
 
 ## Dataset Citation
 Clément Bisaillon. *Fake and Real News Dataset*. Kaggle.
